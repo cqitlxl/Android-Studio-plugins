@@ -6,4 +6,9 @@ Android Studio plugins
 
   >* 名称：Android Studio Prettify
   >* 功能: 自动导入Layout view
-  >* 地址:  http://plugins.jetbrains.com/plugin/7405
+  >* 安装:  http://plugins.jetbrains.com/plugin/7405
+
+
+  >* 名称：Eclipse Code Formatter
+  >* 功能: 导入Eclipse code style formatter XML
+  >* 安装:  Browse Respositories->search Eclipse Code Formatter
